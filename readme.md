@@ -1,4 +1,4 @@
-#ll.filtrera.js
+#ll.kollage
 
     By: Lundgren+Lindqvist
     http://dev.lundgrenlindqvist.se
@@ -9,7 +9,7 @@ A small WordPress theme for displaying your photo gallery in a responsive grid. 
 
 ## Additional features
 
-The theme can easily be extended to include for instance your Instagram feed using the '"WP Instagram Digest' plugin: http://wordpress.org/extend/plugins/wp-instagram-digest/
+The theme can easily be extended to include for instance your Instagram feed using the "WP Instagram Digest" plugin: http://wordpress.org/extend/plugins/wp-instagram-digest/
 
 ## Demo
 
