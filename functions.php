@@ -1,4 +1,15 @@
 <?php
+// Custom Favicons
+function add_favicon() { ?>
+    <link rel="shortcut icon" href="<?php echo bloginfo('stylesheet_directory') ?>/favicon.png"/>
+<?php }
+add_action('wp_head', 'add_favicon');
+
+function admin_favicon() { ?>
+    <link rel="shortcut icon" href="<?php echo bloginfo('stylesheet_directory') ?>/favicon.png"/>
+<?php }
+add_action('admin_head', 'admin_favicon');
+
 // Fetch images
 function get_kollage() {
     
